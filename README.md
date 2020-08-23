@@ -12,7 +12,7 @@
 
 ## Summary of Findings
 
->   - There are about 60000 Loan with category Debt Consolidation, While all ather categories under 10000 loan
+    - There are about 60000 Loan with category Debt Consolidation, While all ather categories under 10000 loan
 
     - 63% of the money goes into the debt conolidation
     
