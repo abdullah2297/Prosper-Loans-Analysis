@@ -40,8 +40,7 @@
 
 ## Key Insights for Presentation
 
->	- The most losses happen when prosper score is prefer to high risk.
-
+	- The most losses happen when prosper score is prefer to high risk.
 	- ProsperScore of the loan categories is approximately the same, but it tells us that Personal loans, RV and Motorcycle is the highst risk. while household expenses is lowest risk.
 
 ## Prerequisites
