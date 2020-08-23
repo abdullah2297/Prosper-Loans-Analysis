@@ -21,10 +21,23 @@
     - CA is highst state ask for loans, Then NY, FL, TX, 
     - The Lowest states ask for loans is ND, ME, WY, IA
     - The majority of the loans were fully funded and a very small percentage of the loans were funded by more than 70% of their original value
-    
     - The histogram shows that loans funded by more than 500 investor are outliers, and The most is funded by lower then 200 invstor. but The outliers here dosn't affect the analysis so i will keep it
-
+    - the borrower who is employed has the highest stated monthly income and the borrower who is part-time has the lowest monthly income.
+    - there is strange something that the borrower who is not-employed has stated monthly income bigger than the borrower who is part-time 
+    - The most losses happen when prosper score is prefer to high risk
 
 ## Key Insights for Presentation
 
-> 
+>	- The most losses happen when prosper score is prefer to high risk.
+	- ProsperScore of the loan categories is approximately the same, but it tells us that Personal loans, RV and Motorcycle is the highst risk. while household expenses is lowest risk.
+
+## Prerequisites
+	- Jupyter Notebook
+	- Python 3
+	- Python libraries: Pandas, Numpy, Matplotlib, Seaborn, missingno
+
+## Run slide Deck From the following command : 
+	- jupyter nbconvert prosperLoanData-Explonatory-part2 --to slides --template output-toggle.tpl --post serve
+
+
+
